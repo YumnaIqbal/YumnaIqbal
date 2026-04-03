@@ -1,30 +1,80 @@
-Hello, I'm Yumna Iqbal 👋
-LinkedIn
+# 👋 Hello, I'm Yumna Iqbal
 
-I'm a passionate Flutter developer with over 3 years of experience in mobile app development. I love building beautiful and user-friendly apps. I'm also an enthusiast of clean code, performance optimization, and scalable architecture.
+🔗 **LinkedIn:** [Yumna Iqbal](#)
 
-🚀 Skills & Tools
-Languages: Dart, Java, Kotlin, Swift,
-Frameworks: Flutter, Firebase,
-Tools: Git, GitHub,Jira
-Databases: Firestore, MySQL, SQLite
-Mobile Platforms: iOS, Android
-🔭 Currently Working On
-Developing an video editor app.
-Developing an AI-powered healthcare app.
-Contributing to open-source projects and Flutter community.
-💻 My Projects
+---
+
+## 💡 About Me
+
+I'm a passionate **Flutter Developer** with 3+ years of experience in mobile app development.
+I love building **beautiful, user-friendly apps** and focus on:
+
+* Clean Code 🧼
+* Performance Optimization ⚡
+* Scalable Architecture 🏗️
+
+---
+
+## 🚀 Skills & Tools
+
+### 💻 Languages
+
+* Dart
+* Java
+* Kotlin
+* Swift
+
+### 📱 Frameworks
+
+* Flutter
+* Firebase
+
+### 🛠️ Tools
+
+* Git
+* GitHub
+* Jira
+
+### 🗄️ Databases
+
+* Firestore
+* MySQL
+* SQLite
+
+### 📲 Platforms
+
+* iOS
+* Android
+
+---
+
+## 🔭 Currently Working On
+
+* 🎬 Developing a **Video Editor App**
+* 🤖 Building an **AI-powered Healthcare App**
+* 🌍 Contributing to **Open Source** & Flutter Community
+
+---
+
+## 💻 My Projects
+
 Here are some of my notable repositories:
 
-Better Mood: A mindfulness app to track your mood and mental health.
-Peace: A meditation app for your mental health
-Storat: Real state app 
-📫 How to Reach Me
-Email: yumnai666@gmail.com
-LinkedIn: Yumna Iqbal
+* **Better Mood**
+  → A mindfulness app to track mood and mental health
 
+* **Peace**
+  → A meditation app for mental wellness
 
+* **Storat**
+  → A real estate application
 
- 
+---
 
-  
+## 📫 How to Reach Me
+
+* 📧 Email: **[yumnai666@gmail.com](mailto:yumnai666@gmail.com)**
+* 🔗 LinkedIn: **Yumna Iqbal**
+
+---
+
